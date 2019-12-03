@@ -1,2 +1,2 @@
 # Selenium
-Moj prvi kod u Seleniumu.
+Unaprijedjeni prvi kod u Seleniumu.
