@@ -1,2 +1,2 @@
 # Selenium
-Unaprijedjeni prvi kod u Seleniumu.
+Unaprijedjeni drugi kod u Seleniumu.
